@@ -119,6 +119,6 @@ SWITCH(
     99
 )
 
-![Dashboard Screenshot](images/dashboard_main.png)
+
 
 
