@@ -91,7 +91,7 @@ Searchable table with:
 (*Upload your dashboard images into `/images` and update paths below.*)
 
 ### **Main Dashboard**
-![Dashboard Overview][(https://github.com/SaurabhKumar-Singh/ESG_Project/blob/main/ESG_Project/dashboard_Pic.JPG?raw=true)]
+![Dashboard Overview](https://github.com/SaurabhKumar-Singh/ESG_Project/blob/main/ESG_Project/dashboard_Pic.JPG?raw=true)
 
 
 
